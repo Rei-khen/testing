@@ -1,0 +1,5 @@
+1.belajar dasar http
+2.belajar express
+3.belajar git
+4.belajar github
+5.belajar relasional database

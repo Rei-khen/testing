@@ -1,4 +1,8 @@
 1.belajar dasar http
+  -belajar konsep req dan res
+  -belajar konsep http method (get, post, put, delete)
+  -belajar konsep http head
+  -belajar konsep hhtp header dan params
 2.belajar express
   -belajar konsep mvc
   -belajar cara menghubungkan database
@@ -7,3 +11,4 @@
 5.belajar relasional database
 6.belajar konsep autentikasi
 7.belajar konsep chacing
+9.belajar konsep frondend

@@ -7,3 +7,5 @@
 3.belajar git
 4.belajar github
 5.belajar relasional database
+7.belajar nosql database
+8.belajar forndend 

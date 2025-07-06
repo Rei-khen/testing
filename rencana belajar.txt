@@ -1,4 +1,8 @@
 1.belajar dasar http
+  -belajar konsep req dan res
+  -belajar konsep http method (get, post, put, delete)
+  -belajar konsep http head
+  -belajar konsep hhtp header dan params
 2.belajar express
 3.belajar git
 4.belajar github

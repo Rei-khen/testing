@@ -4,8 +4,11 @@
   -belajar konsep http head
   -belajar konsep hhtp header dan params
 2.belajar express
+  -belajar konsep mvc
+  -belajar cara menghubungkan database
 3.belajar git
 4.belajar github
 5.belajar relasional database
-7.belajar nosql database
-8.belajar forndend 
+6.belajar konsep autentikasi
+7.belajar konsep chacing
+9.belajar konsep frondend
